@@ -4,7 +4,7 @@
 
 # Laravel Español
 
-Paquete de traducciones en español para Laravel 5. Este paquete te agrega a tu proyecto los ficheros de traducciones en español que Laravel 5 trae por defecto.
+Paquete de traducciones en español para Laravel 5. Este paquete te agrega a tu proyecto los ficheros de traducciones en español que Laravel 9 trae por defecto.
 
 ## Versiones
 
